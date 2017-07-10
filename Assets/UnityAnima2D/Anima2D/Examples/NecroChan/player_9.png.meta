@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 7ee5eb3a11a735f44900fb01af951841
-timeCreated: 1499727909
+timeCreated: 1499730300
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -38,6 +38,7 @@ TextureImporter:
     21300062: skirt_1
     21300064: headdress_1
     21300066: headdress_2
+    21300068: body
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -120,7 +121,7 @@ TextureImporter:
         width: 34.002525
         height: 33.919342
       alignment: 9
-      pivot: {x: 0.50584465, y: 0.49881104}
+      pivot: {x: 0.549959, y: 0.15977143}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11.5, y: 11.5}
@@ -138,7 +139,7 @@ TextureImporter:
         width: 17.600012
         height: 19.000015
       alignment: 9
-      pivot: {x: 0.50000036, y: 0.49999923}
+      pivot: {x: 0.5284094, y: 0.39473614}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -3.5, y: 4}
@@ -155,7 +156,7 @@ TextureImporter:
         width: 25
         height: 33.899994
       alignment: 9
-      pivot: {x: 0.50399995, y: 0.5014748}
+      pivot: {x: 0.7839999, y: 0.8407079}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 1, y: 11.5}
@@ -174,7 +175,7 @@ TextureImporter:
         width: 25.100002
         height: 33.950005
       alignment: 9
-      pivot: {x: 0.49800792, y: 0.49926367}
+      pivot: {x: 0.2191235, y: 0.8379971}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 11.5}
@@ -193,7 +194,7 @@ TextureImporter:
         width: 20.8
         height: 33.90001
       alignment: 9
-      pivot: {x: 0.50000006, y: 0.50147456}
+      pivot: {x: 0.6442308, y: 0.84070754}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -2, y: 11.5}
@@ -211,7 +212,7 @@ TextureImporter:
         width: 20.60001
         height: 34.100002
       alignment: 9
-      pivot: {x: 0.49999973, y: 0.49853382}
+      pivot: {x: 0.5485434, y: 0.83577716}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -2, y: 11.5}
@@ -229,7 +230,7 @@ TextureImporter:
         width: 40.300003
         height: 41.40001
       alignment: 9
-      pivot: {x: 0.5062035, y: 0.51207656}
+      pivot: {x: 0.64267987, y: 0.47584468}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -12.5, y: 14.5}
@@ -247,7 +248,7 @@ TextureImporter:
         width: 36.8
         height: 21.299995
       alignment: 9
-      pivot: {x: 0.51358694, y: 0.49765262}
+      pivot: {x: 0.798913, y: 0.45070425}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11.5, y: 5}
@@ -266,7 +267,7 @@ TextureImporter:
         width: 25.300003
         height: 65.321014
       alignment: 9
-      pivot: {x: 0.4912868, y: 0.5020775}
+      pivot: {x: 0.68891525, y: 0.9154208}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 27}
@@ -284,7 +285,7 @@ TextureImporter:
         width: 19.90001
         height: 27
       alignment: 9
-      pivot: {x: 0.50753736, y: 0.4851854}
+      pivot: {x: 0.73366797, y: 0.42962986}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4.5, y: 7.5}
@@ -302,7 +303,7 @@ TextureImporter:
         width: 20.350021
         height: 29.30001
       alignment: 9
-      pivot: {x: 0.5036842, y: 0.4846416}
+      pivot: {x: 0.28255463, y: 0.4334471}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4.5, y: 8.5}
@@ -320,7 +321,7 @@ TextureImporter:
         width: 31.764053
         height: 66.17537
       alignment: 9
-      pivot: {x: 0.51202697, y: 0.49830264}
+      pivot: {x: 0.27591103, y: 0.9138651}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -9.5, y: 27.5}
@@ -343,7 +344,7 @@ TextureImporter:
         width: 47.500023
         height: 34.3
       alignment: 9
-      pivot: {x: 0.5031574, y: 0.49854237}
+      pivot: {x: 0.16631542, y: 0.7755103}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 11.5}
@@ -363,7 +364,7 @@ TextureImporter:
         width: 12
         height: 11
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4166667, y: 0.54545456}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -1, y: -0.5}
@@ -380,7 +381,7 @@ TextureImporter:
         width: 19.099998
         height: 14.600006
       alignment: 9
-      pivot: {x: 0.50785345, y: 0.5}
+      pivot: {x: 0.7172776, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 2}
@@ -397,7 +398,7 @@ TextureImporter:
         width: 20.500011
         height: 14.600014
       alignment: 9
-      pivot: {x: 0.49756074, y: 0.4931505}
+      pivot: {x: 0.2536584, y: 0.4931505}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5, y: 2}
@@ -414,7 +415,7 @@ TextureImporter:
         width: 18.899998
         height: 13.70002
       alignment: 9
-      pivot: {x: 0.5079365, y: 0.4963493}
+      pivot: {x: 0.7195767, y: 0.459853}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 1.5}
@@ -431,7 +432,7 @@ TextureImporter:
         width: 21.100006
         height: 13.649994
       alignment: 9
-      pivot: {x: 0.49289092, y: 0.49450347}
+      pivot: {x: 0.25592417, y: 0.45787343}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5, y: 1.5}
@@ -448,7 +449,7 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.61538464, y: 0.6666667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -1.5, y: 2.5}
@@ -465,7 +466,7 @@ TextureImporter:
         width: 14
         height: 15
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.35714287, y: 0.6666667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -2, y: 2.5}
@@ -482,7 +483,7 @@ TextureImporter:
         width: 12
         height: 15
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5833334, y: 0.6666667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -1, y: 2.5}
@@ -499,7 +500,7 @@ TextureImporter:
         width: 13
         height: 15
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.3846154, y: 0.6666667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -1.5, y: 2.5}
@@ -516,7 +517,7 @@ TextureImporter:
         width: 12
         height: 12
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5833334, y: 0.5833334}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -1, y: 1}
@@ -533,7 +534,7 @@ TextureImporter:
         width: 13
         height: 12
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.3846154, y: 0.5833334}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -1.5, y: 1}
@@ -550,7 +551,7 @@ TextureImporter:
         width: 24.699997
         height: 21.399994
       alignment: 9
-      pivot: {x: 0.52226704, y: 0.5093455}
+      pivot: {x: 0.6842104, y: 0.7429904}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 5}
@@ -569,7 +570,7 @@ TextureImporter:
         width: 18.2
         height: 24.800001
       alignment: 9
-      pivot: {x: 0.51098895, y: 0.5120967}
+      pivot: {x: 0.7032966, y: 0.77419347}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -3.5, y: 6.5}
@@ -587,7 +588,7 @@ TextureImporter:
         width: 23.800003
         height: 22.100006
       alignment: 9
-      pivot: {x: 0.4873948, y: 0.5067867}
+      pivot: {x: 0.29831922, y: 0.733031}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5.5, y: 5}
@@ -606,7 +607,7 @@ TextureImporter:
         width: 19.300003
         height: 26.899996
       alignment: 9
-      pivot: {x: 0.5025905, y: 0.5092936}
+      pivot: {x: 0.2953366, y: 0.78810406}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 7.5}
@@ -626,7 +627,7 @@ TextureImporter:
         width: 37.100002
         height: 30.200005
       alignment: 9
-      pivot: {x: 0.49865216, y: 0.50993377}
+      pivot: {x: 0.4447438, y: 0.82450324}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 9.5}
@@ -645,7 +646,7 @@ TextureImporter:
         width: 19.2
         height: 36.499996
       alignment: 9
-      pivot: {x: 0.5104166, y: 0.51232886}
+      pivot: {x: 0.71874994, y: 0.84109604}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 1, y: 12}
@@ -664,7 +665,7 @@ TextureImporter:
         width: 24.300003
         height: 35.79999
       alignment: 9
-      pivot: {x: 0.4938271, y: 0.51117307}
+      pivot: {x: 0.22633742, y: 0.8463687}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6.5, y: 12}
@@ -679,12 +680,12 @@ TextureImporter:
       name: skirt_1
       rect:
         serializedVersion: 2
-        x: 62.6
+        x: 63.4
         y: 68.299995
-        width: 25.90001
+        width: 25.100006
         height: 26.200005
       alignment: 9
-      pivot: {x: 0.4980694, y: 0.50381684}
+      pivot: {x: 0.38246995, y: 0.71374047}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7.5, y: 7.5}
@@ -701,7 +702,7 @@ TextureImporter:
         width: 20.7
         height: 20.099998
       alignment: 9
-      pivot: {x: 0.49758452, y: 0.5124378}
+      pivot: {x: 0.44927534, y: 0.33830854}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 4.5}
@@ -720,7 +721,7 @@ TextureImporter:
         width: 21.1
         height: 19.700006
       alignment: 9
-      pivot: {x: 0.50236964, y: 0.49746165}
+      pivot: {x: 0.549763, y: 0.3197967}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 4.5}
@@ -730,8 +731,21 @@ TextureImporter:
         - {x: 5, y: 3.5}
         - {x: 4, y: 4.5}
       tessellationDetail: 0
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 18.5
+        y: 70.4
+        width: 19.099998
+        height: 24.899994
+      alignment: 9
+      pivot: {x: 0.5497382, y: 0.74698806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
-  userData: 98286166684185
+  userData: 98286324273136
   assetBundleName: 
   assetBundleVariant: 

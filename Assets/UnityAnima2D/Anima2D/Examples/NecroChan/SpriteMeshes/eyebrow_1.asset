@@ -70,7 +70,7 @@ Mesh:
     firstVertex: 0
     vertexCount: 4
     localAABB:
-      m_Center: {x: 0, y: 0, z: 0}
+      m_Center: {x: -0.01, y: -0.01, z: 0}
       m_Extent: {x: 0.01, y: 0.01, z: 0}
   m_Shapes:
     vertices: []
@@ -155,7 +155,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: 0ad723bc0ad7233c000000000000000000000000000080bf0ad7233c0ad723bc000000000000000000000000000080bf0ad7233c0ad7233c000000000000000000000000000080bf0ad723bc0ad723bc000000000000000000000000000080bf9a99993e9a99593f0000a03e6766563f0000a03e9a99593f9a99993e6766563f
+    _typelessdata: 0ad7a3bc00000000000000000000000000000000000080bf000000000ad7a3bc000000000000000000000000000080bf0000000000000000000000000000000000000000000080bf0ad7a3bc0ad7a3bc000000000000000000000000000080bf9a99993e9a99593f0000a03e6766563f0000a03e9a99593f9a99993e6766563f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -209,7 +209,7 @@ Mesh:
       m_BitSize: 0
     m_UVInfo: 0
   m_LocalAABB:
-    m_Center: {x: 0, y: 0, z: 0}
+    m_Center: {x: -0.01, y: -0.01, z: 0}
     m_Extent: {x: 0.01, y: 0.01, z: 0}
   m_MeshUsageFlags: 0
   m_BakedConvexCollisionMesh: 
@@ -226,13 +226,45 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e715ea371f114f4a8d2584ad476634d, type: 3}
   m_Name: eyebrow_1_Data
   m_EditorClassIdentifier: 
-  m_PivotPoint: {x: 49, y: 135}
+  m_PivotPoint: {x: 50, y: 136}
   m_Vertices:
   - {x: 48, y: 136}
   - {x: 50, y: 134}
   - {x: 50, y: 136}
   - {x: 48, y: 134}
-  m_BoneWeights: []
+  m_BoneWeights:
+  - weight0: 0
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: -1
+    boneIndex1: -1
+    boneIndex2: -1
+    boneIndex3: -1
+  - weight0: 0
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: -1
+    boneIndex1: -1
+    boneIndex2: -1
+    boneIndex3: -1
+  - weight0: 0
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: -1
+    boneIndex1: -1
+    boneIndex2: -1
+    boneIndex3: -1
+  - weight0: 0
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: -1
+    boneIndex1: -1
+    boneIndex2: -1
+    boneIndex3: -1
   m_Edges:
   - index1: 3
     index2: 0
