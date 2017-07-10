@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 7ee5eb3a11a735f44900fb01af951841
-timeCreated: 1499682109
+timeCreated: 1499727909
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -115,12 +115,12 @@ TextureImporter:
       name: head
       rect:
         serializedVersion: 2
-        x: 12
-        y: 105
-        width: 33
-        height: 33
+        x: 11.300005
+        y: 104.58066
+        width: 34.002525
+        height: 33.919342
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50584465, y: 0.49881104}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11.5, y: 11.5}
@@ -133,12 +133,12 @@ TextureImporter:
       name: neck
       rect:
         serializedVersion: 2
-        x: 20
-        y: 92
-        width: 17
-        height: 18
+        x: 19.699987
+        y: 91.50001
+        width: 17.600012
+        height: 19.000015
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50000036, y: 0.49999923}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -3.5, y: 4}
@@ -150,12 +150,12 @@ TextureImporter:
       name: arm_1
       rect:
         serializedVersion: 2
-        x: 2
-        y: 69
-        width: 24
-        height: 33
+        x: 1.400001
+        y: 68.50001
+        width: 25
+        height: 33.899994
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50399995, y: 0.5014748}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 1, y: 11.5}
@@ -169,12 +169,12 @@ TextureImporter:
       name: arm_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 69
-        width: 24
-        height: 33
+        x: 30.5
+        y: 68.549995
+        width: 25.100002
+        height: 33.950005
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.49800792, y: 0.49926367}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 11.5}
@@ -188,12 +188,12 @@ TextureImporter:
       name: leg_1
       rect:
         serializedVersion: 2
-        x: 10
-        y: 44
-        width: 20
-        height: 33
+        x: 9.599999
+        y: 43.500008
+        width: 20.8
+        height: 33.90001
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50000006, y: 0.50147456}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -2, y: 11.5}
@@ -206,12 +206,12 @@ TextureImporter:
       name: leg_2
       rect:
         serializedVersion: 2
-        x: 23
-        y: 44
-        width: 20
-        height: 33
+        x: 22.7
+        y: 43.499996
+        width: 20.60001
+        height: 34.100002
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.49999973, y: 0.49853382}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -2, y: 11.5}
@@ -224,12 +224,12 @@ TextureImporter:
       name: hair_1
       rect:
         serializedVersion: 2
-        x: 72
-        y: 88
-        width: 39
-        height: 39
+        x: 71.1
+        y: 86.300026
+        width: 40.300003
+        height: 41.40001
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5062035, y: 0.51207656}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -12.5, y: 14.5}
@@ -242,12 +242,12 @@ TextureImporter:
       name: hair_2
       rect:
         serializedVersion: 2
-        x: 43
-        y: 93
-        width: 35
-        height: 20
+        x: 41.600002
+        y: 92.4
+        width: 36.8
+        height: 21.299995
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.51358694, y: 0.49765262}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -11.5, y: 5}
@@ -261,12 +261,12 @@ TextureImporter:
       name: hair_3
       rect:
         serializedVersion: 2
-        x: 102
-        y: 46
-        width: 24
-        height: 64
+        x: 101.57044
+        y: 45.203785
+        width: 25.300003
+        height: 65.321014
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4912868, y: 0.5020775}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7, y: 27}
@@ -279,12 +279,12 @@ TextureImporter:
       name: ear_1
       rect:
         serializedVersion: 2
-        x: 108
-        y: 108
-        width: 19
-        height: 25
+        x: 107.4
+        y: 107.399994
+        width: 19.90001
+        height: 27
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50753736, y: 0.4851854}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4.5, y: 7.5}
@@ -297,12 +297,12 @@ TextureImporter:
       name: ear_2
       rect:
         serializedVersion: 2
-        x: 122
-        y: 107
-        width: 19
-        height: 27
+        x: 121.250015
+        y: 106.299995
+        width: 20.350021
+        height: 29.30001
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5036842, y: 0.4846416}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4.5, y: 8.5}
@@ -315,12 +315,12 @@ TextureImporter:
       name: hair_4
       rect:
         serializedVersion: 2
-        x: 129
-        y: 45
-        width: 31
-        height: 65
+        x: 128.23595
+        y: 44.52464
+        width: 31.764053
+        height: 66.17537
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.51202697, y: 0.49830264}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -9.5, y: 27.5}
@@ -338,12 +338,12 @@ TextureImporter:
       name: tail
       rect:
         serializedVersion: 2
-        x: 87
-        y: 17
-        width: 46
-        height: 33
+        x: 86.10001
+        y: 16.399998
+        width: 47.500023
+        height: 34.3
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5031574, y: 0.49854237}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 11.5}
@@ -375,12 +375,12 @@ TextureImporter:
       name: eyelash_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 122
-        width: 18
-        height: 14
+        x: 39.3
+        y: 121.7
+        width: 19.099998
+        height: 14.600006
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50785345, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 2}
@@ -392,12 +392,12 @@ TextureImporter:
       name: eyelash_2
       rect:
         serializedVersion: 2
-        x: 52
-        y: 122
-        width: 20
-        height: 14
+        x: 51.8
+        y: 121.799995
+        width: 20.500011
+        height: 14.600014
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.49756074, y: 0.4931505}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5, y: 2}
@@ -409,12 +409,12 @@ TextureImporter:
       name: eyelash_3
       rect:
         serializedVersion: 2
-        x: 40
-        y: 115
-        width: 18
-        height: 13
+        x: 39.4
+        y: 114.700005
+        width: 18.899998
+        height: 13.70002
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5079365, y: 0.4963493}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 1.5}
@@ -426,12 +426,12 @@ TextureImporter:
       name: eyelash_4
       rect:
         serializedVersion: 2
-        x: 52
-        y: 115
-        width: 20
-        height: 13
+        x: 51.6
+        y: 114.75003
+        width: 21.100006
+        height: 13.649994
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.49289092, y: 0.49450347}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5, y: 1.5}
@@ -545,12 +545,12 @@ TextureImporter:
       name: ribbon_1
       rect:
         serializedVersion: 2
-        x: 44
-        y: 30
-        width: 22
-        height: 20
+        x: 42.100006
+        y: 29.10001
+        width: 24.699997
+        height: 21.399994
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.52226704, y: 0.5093455}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 5}
@@ -564,12 +564,12 @@ TextureImporter:
       name: ribbon_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 14
-        width: 17
-        height: 23
+        x: 46.2
+        y: 12.800001
+        width: 18.2
+        height: 24.800001
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.51098895, y: 0.5120967}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -3.5, y: 6.5}
@@ -582,12 +582,12 @@ TextureImporter:
       name: ribbon_3
       rect:
         serializedVersion: 2
-        x: 66
-        y: 30
-        width: 21
-        height: 20
+        x: 64.9
+        y: 28.80001
+        width: 23.800003
+        height: 22.100006
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4873948, y: 0.5067867}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -5.5, y: 5}
@@ -601,12 +601,12 @@ TextureImporter:
       name: ribbon_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 14
-        width: 18
-        height: 25
+        x: 63.300003
+        y: 12.800005
+        width: 19.300003
+        height: 26.899996
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5025905, y: 0.5092936}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 7.5}
@@ -621,12 +621,12 @@ TextureImporter:
       name: petticoat
       rect:
         serializedVersion: 2
-        x: 59
-        y: 45
-        width: 36
-        height: 29
+        x: 58.500004
+        y: 44.1
+        width: 37.100002
+        height: 30.200005
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.49865216, y: 0.50993377}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 9.5}
@@ -640,12 +640,12 @@ TextureImporter:
       name: skirt_2
       rect:
         serializedVersion: 2
-        x: 50
-        y: 57
-        width: 18
-        height: 34
+        x: 49.2
+        y: 55.3
+        width: 19.2
+        height: 36.499996
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5104166, y: 0.51232886}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 1, y: 12}
@@ -659,12 +659,12 @@ TextureImporter:
       name: skirt_3
       rect:
         serializedVersion: 2
-        x: 86
-        y: 57
-        width: 23
-        height: 34
+        x: 85.5
+        y: 55.70001
+        width: 24.300003
+        height: 35.79999
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4938271, y: 0.51117307}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6.5, y: 12}
@@ -679,12 +679,12 @@ TextureImporter:
       name: skirt_1
       rect:
         serializedVersion: 2
-        x: 63
-        y: 69
-        width: 25
-        height: 25
+        x: 62.6
+        y: 68.299995
+        width: 25.90001
+        height: 26.200005
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4980694, y: 0.50381684}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -7.5, y: 7.5}
@@ -696,12 +696,12 @@ TextureImporter:
       name: headdress_1
       rect:
         serializedVersion: 2
-        x: 9
-        y: 25
-        width: 20
-        height: 19
+        x: 8.7
+        y: 24.2
+        width: 20.7
+        height: 20.099998
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.49758452, y: 0.5124378}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 4.5}
@@ -715,12 +715,12 @@ TextureImporter:
       name: headdress_2
       rect:
         serializedVersion: 2
-        x: 26
-        y: 25
-        width: 20
-        height: 19
+        x: 25.4
+        y: 24.700003
+        width: 21.1
+        height: 19.700006
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50236964, y: 0.49746165}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4, y: 4.5}
@@ -732,6 +732,6 @@ TextureImporter:
       tessellationDetail: 0
     outline: []
   spritePackingTag: 
-  userData: 
+  userData: 98286166684185
   assetBundleName: 
   assetBundleVariant: 
