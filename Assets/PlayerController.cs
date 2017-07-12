@@ -9,10 +9,14 @@ public class PlayerController : MonoBehaviour {
     public Rigidbody2D m_RigidbodyPlayer = null;
     public Transform m_Left = null;
     public Transform m_Right = null;
+    Quaternion Leftt;
+    Quaternion Rightt;
 
     private void Awake()
     {
         m_Player.gameObject.SetActive(true);
+        Leftt = Quaternion.Euler(0, 0, 0);
+        Rightt = Quaternion.Euler(0, 180, 0);
     }
 
     // Use this for initialization
@@ -24,7 +28,10 @@ public class PlayerController : MonoBehaviour {
 	void Update () {
 		if(Input.GetKeyDown(KeyCode.A))
         {
-            m_Player.rotation = m_Left.rotation;
+            //m_Player.rotation = m_Left.rotation;
+            m_Player.rotation = Leftt;
+            
+
         }
         if (Input.GetKey(KeyCode.A))
         {
@@ -33,7 +40,8 @@ public class PlayerController : MonoBehaviour {
 
         if (Input.GetKeyDown(KeyCode.D))
         {
-            m_Player.rotation = m_Right.rotation;
+            //m_Player.rotation = m_Right.rotation;
+            m_Player.rotation = Rightt;
         }
         if (Input.GetKey(KeyCode.D))
         {
