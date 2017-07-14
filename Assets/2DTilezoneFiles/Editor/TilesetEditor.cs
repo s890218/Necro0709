@@ -192,7 +192,7 @@ public class TilesetEditor : EditorWindow {
 	static void SetWireframeHidden ( bool isHidden ) {
 		if( layerTileInfo == null )
 			return;
-		EditorUtility.SetSelectedWireframeHidden( layerTileInfo.meshRenderer, isHidden );
+		EditorUtility.SetSelectedRenderState(layerTileInfo.meshRenderer, EditorSelectedRenderState.Hidden);
 	}
 
 	static void InitLayerToEdit () {
