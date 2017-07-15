@@ -11,7 +11,7 @@ public class EnemyFight : RAINAction
     public override void Start(RAIN.Core.AI ai)
     {
         base.Start(ai);
-		ai.Body.GetComponent<Animator>().SetTrigger("Weel");
+		//ai.Body.GetComponent<Animator>().SetTrigger("Weel");
 
 	}
 
