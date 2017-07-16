@@ -27,7 +27,8 @@ public class EnemyAction : RAINAction
 			m_FireData.m_Damage = 20f;
 		}
 
-		if(m_Shoter!=null)
+
+		if (m_Shoter!=null)
 		{
 			if (Random.Range(0, 2) == 0)
 			{
@@ -39,6 +40,7 @@ public class EnemyAction : RAINAction
 				GameObject obj = GameObject.Instantiate(m_Shoter2, ai.Body.transform.position, m_Shoter.transform.rotation);
 				obj.GetComponent<Shoter>().InitData(m_FireData);
 			}
+			ai.WorkingMemory.SetItem("DelayTime", 1.5f);
 		}
     }
 

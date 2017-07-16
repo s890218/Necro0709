@@ -28,6 +28,7 @@ public class EnemyRedFire : RAINAction
 		{
 			GameObject obj = GameObject.Instantiate(m_Shoter, ai.Body.transform.position, m_Shoter.transform.rotation);
 			obj.GetComponent<Shoter>().InitData(m_FireData);
+			ai.WorkingMemory.SetItem("DelayTime", 2.5f);
 		}
 	}
 

@@ -6745,7 +6745,9 @@ MonoBehaviour:
       type="System.Int32">5</Value></element0><element1 reference="12"><Key>NowHp</Key><ValueType>System.Single</ValueType><Value
       type="System.Single">0</Value></element1><element2 reference="13"><Key>MaxHp</Key><ValueType>System.Single</ValueType><Value
       type="System.Single">0</Value></element2><element3 reference="16"><Key>Atk</Key><ValueType>System.Single</ValueType><Value
-      type="System.Single">0</Value></element3></_memoryItems></_workingMemory><_mind
+      type="System.Single">0</Value></element3><element4 reference="17"><Key>DelayTime</Key><ValueType>System.Single</ValueType><Value
+      type="System.Single">3</Value></element4><element5 reference="18"><Key>Test</Key><ValueType>System.Single</ValueType><Value
+      type="System.Single">5</Value></element5></_memoryItems></_workingMemory><_mind
       type="RAIN.Minds.BasicMind" reference="3"><_behaviorTree object="0"></_behaviorTree><_behaviorTreeBindings></_behaviorTreeBindings></_mind><_motor
       type="RAIN.Motion.BasicMotor" reference="4"><_speed>0</_speed><_rotationSpeed>360</_rotationSpeed><_closeEnoughDistance>0.1</_closeEnoughDistance><_closeEnoughAngle>0.1</_closeEnoughAngle><_faceBeforeMoveAngle>360</_faceBeforeMoveAngle><_maxHeightOffset>1</_maxHeightOffset><_allow3DMovement>False</_allow3DMovement><_allow3DRotation>False</_allow3DRotation><_allowOffGraphMovement>True</_allowOffGraphMovement><_useRootMotion>False</_useRootMotion><_overrideRootRotation>True</_overrideRootRotation><_mecanimParameters></_mecanimParameters></_motor><_animator
       type="RAIN.Animation.BasicAnimator" reference="5"><_showVisual>True</_showVisual><_leftEye
@@ -6758,7 +6760,7 @@ MonoBehaviour:
       reference="14"><_showVisual>True</_showVisual><_sensorName>eye2</_sensorName><_isActive>True</_isActive><_sensorColor>0.6,0,0,1</_sensorColor><_mountPoint
       sceneobject="c78e5481-eee9-4632-9c2a-432487372d00" component="0"></_mountPoint><_positionOffset>0,0,0</_positionOffset><_angleOffset>0,0,0</_angleOffset><_filters></_filters><_range>15</_range><_canDetectSelf>False</_canDetectSelf><_horizontalAngle>360</_horizontalAngle><_verticalAngle>180</_verticalAngle><_lineOfSight>False</_lineOfSight><_lineOfSightMask>-5</_lineOfSightMask></element0></_sensors></_senses><_customElements></_customElements></_ai></component>
     _serializedMetaDocument: <meta><element0><key>/component/_ai+_selected</key><value
-      type="System.Int32">5</value></element0></meta>
+      type="System.Int32">1</value></element0></meta>
     _serializedObjects:
     - {fileID: 4900000, guid: 0b7d3d78859c5dd42a5962ee71c70020, type: 3}
     _serializedCustomData: []
