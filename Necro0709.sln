@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Necro0709.Plugins", "Necro0709.Plugins.csproj", "{B00BA897-4823-2FAC-D253-6EE08B944073}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Necro0709", "Necro0709.csproj", "{2B1F684A-0E7B-70FC-BEA0-DAE2E437A356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Necro0709.Editor.Plugins", "Necro0709.Editor.Plugins.csproj", "{FD5ACCE4-B07B-10AF-AA05-F4D3F7E99EED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Necro0709.Editor", "Necro0709.Editor.csproj", "{505A2243-F4EC-8E5C-EBDF-089F1DE9A544}"
 EndProject
@@ -11,10 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00BA897-4823-2FAC-D253-6EE08B944073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00BA897-4823-2FAC-D253-6EE08B944073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00BA897-4823-2FAC-D253-6EE08B944073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00BA897-4823-2FAC-D253-6EE08B944073}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2B1F684A-0E7B-70FC-BEA0-DAE2E437A356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B1F684A-0E7B-70FC-BEA0-DAE2E437A356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B1F684A-0E7B-70FC-BEA0-DAE2E437A356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B1F684A-0E7B-70FC-BEA0-DAE2E437A356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5ACCE4-B07B-10AF-AA05-F4D3F7E99EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5ACCE4-B07B-10AF-AA05-F4D3F7E99EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5ACCE4-B07B-10AF-AA05-F4D3F7E99EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5ACCE4-B07B-10AF-AA05-F4D3F7E99EED}.Release|Any CPU.Build.0 = Release|Any CPU
 		{505A2243-F4EC-8E5C-EBDF-089F1DE9A544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{505A2243-F4EC-8E5C-EBDF-089F1DE9A544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{505A2243-F4EC-8E5C-EBDF-089F1DE9A544}.Release|Any CPU.ActiveCfg = Release|Any CPU
