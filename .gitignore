@@ -53,3 +53,5 @@ Necro.csproj
 Necro.Editor.csproj
 Necro.sln
 *.csproj
+Assets/Script/Editor/MathMoney.cs
+Assets/Script/Editor/MathMoney.cs.meta
