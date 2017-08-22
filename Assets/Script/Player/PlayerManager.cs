@@ -17,6 +17,7 @@ public class PlayerManager : MonoBehaviour {
 	private Slider m_HpBar = null;
 	[SerializeField]
 	private Image m_HurtEffect = null;
+	
 
 	private CharDataObject m_PlayerData = null;
 	private Color m_EffectColor;
