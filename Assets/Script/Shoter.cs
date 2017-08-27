@@ -12,6 +12,8 @@ public class Shoter : MonoBehaviour {
 
 	private float m_Time = 0;
 	private float m_OverTime = 0;
+
+	private int m_Type = 0;
 	public void InitData(FireData data)
 	{
 		m_Player = PlayerManager.m_Main.GetPlayerTransform();
@@ -20,6 +22,7 @@ public class Shoter : MonoBehaviour {
 		m_Speed = data.m_Speed;
 		m_Damage = data.m_Damage;
 		m_OverTime = Time.time + data.m_LifeTime;
+		m_Type = data.m_Type;
 		transform.LookAt(m_Player);
 	}
 
@@ -49,8 +52,15 @@ public class Shoter : MonoBehaviour {
 	{
 		if (collision.tag == "Player")
 		{
-			PlayerManager.m_Main.OnHurt(m_Damage);
-			Destroy(this.gameObject);
+			if (m_Type == 0)
+			{
+				PlayerManager.m_Main.OnHurt(m_Damage);
+				Destroy(this.gameObject);
+			}
+			else
+			{
+				Destroy(this.gameObject);
+			}
 		}
 		
 	}
