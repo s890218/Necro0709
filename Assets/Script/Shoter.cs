@@ -59,6 +59,7 @@ public class Shoter : MonoBehaviour {
 			}
 			else
 			{
+				PlayerManager.m_Main.OnEatSoul(15);
 				Destroy(this.gameObject);
 			}
 		}
