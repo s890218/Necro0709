@@ -21,6 +21,8 @@ public class PlayerManager : MonoBehaviour {
 	private Text m_SoulValue = null;
 	[SerializeField]
 	private Slider m_SoulBar = null;
+	[SerializeField]
+	private int m_Test = 0;
 
 
 	private CharDataObject m_PlayerData = null;
